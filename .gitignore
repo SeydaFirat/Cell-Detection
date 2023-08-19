@@ -1,0 +1,11 @@
+# Ignore video files
+*.mp4
+videos/
+
+
+
+# Virtualenv related
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
